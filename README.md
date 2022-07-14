@@ -5,4 +5,4 @@
 - 목차는 알파벳 순으로 정렬되어 있습니다.
 
 ## HTML/CSS   
--[HTML](HTML/생활코딩.md)
+- [HTML](HTML/생활코딩.md)
